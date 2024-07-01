@@ -53,7 +53,7 @@ const handleUSSD = async ({ sessionId, serviceCode, phoneNumber, text }) => {
             break;
         case '3':
             response = `END Join our WhatsApp Group:
-https://chat.whatsapp.com/YOUR_INVITE_LINK`;
+https://chat.whatsapp.com/F1Q4iipPja0Bj3ss75eQ1L`;
             break;
         default:
             response = `END Invalid option. Please try again.`
