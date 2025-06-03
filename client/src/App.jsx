@@ -1,13 +1,11 @@
-// src/App.js
-
 import React from 'react';
-import Image4 from './assets/image4.jpg';
+import Image5 from './assets/image5.webp';
 
 function App() {
     return (
         <div
             className="bg-cover bg-center h-screen flex items-center"
-            style={{ backgroundImage: `url(${Image4})` }}
+            style={{ backgroundImage: `url(${Image5})` }}
         >
             <div className="max-w-md mx-auto p-6 bg-white bg-opacity-90 rounded-lg shadow-lg">
                 <header className="text-center">
